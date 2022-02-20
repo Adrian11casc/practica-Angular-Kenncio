@@ -1,1 +1,1 @@
-alert("Hola mis compañeros Kenneth y Fabricio");
+alert("Hola compañeros Kenneth y Fabricio");
